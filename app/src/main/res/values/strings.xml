@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">even-odd</string>
+    <string name="even_or_odd">Even or Odd</string>
+    <string name="enter">ENTER</string>
+    <string name="check">CHECK</string>
+</resources>
